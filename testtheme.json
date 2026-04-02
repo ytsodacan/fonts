@@ -1,0 +1,47 @@
+{
+  "name": "Minecraft Dark",
+  "description": "A classic Minecraft UI theme for Kettu/Vendetta.",
+  "authors": [
+    {
+      "name": "Gemini",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#313233"],
+    "BACKGROUND_SECONDARY": ["#212121"],
+    "BACKGROUND_SECONDARY_ALT": ["#1a1a1a"],
+    "BACKGROUND_TERTIARY": ["#141414"],
+    "BACKGROUND_FLOATING": ["#404040"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#313233"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#212121"],
+    "BACKGROUND_ACCENT": ["#54fb54"],
+    "BACKGROUND_MESSAGE_HOVER": ["#3d3e40"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ffffff1a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff24"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff12"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff33"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#aaaaaa"],
+    "TEXT_NORMAL": ["#dddddd"],
+    "TEXT_MUTED": ["#7c7c7c"],
+    "TEXT_LINK": ["#54fb54"],
+    "INTERACTIVE_NORMAL": ["#aaaaaa"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#555555"],
+    "BUTTON_SECONDARY_BACKGROUND": ["#4e4e4e"],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": ["#6e6e6e"],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": ["#8e8e8e"]
+  },
+  "rawColors": {
+    "BRAND_500": "#54fb54",
+    "PRIMARY_600": "#212121",
+    "PRIMARY_700": "#1a1a1a",
+    "PRIMARY_800": "#141414"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#313233"
+  }
+}
