@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Minecraft Default",
+    "previewText": "The classic Minecraft typeface for your Discord client.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Regular.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Italic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-BoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Regular.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Bold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/ytsodacan/fonts/raw/main/MinecraftDefault-Regular.ttf?raw=1"
+    }
+}
