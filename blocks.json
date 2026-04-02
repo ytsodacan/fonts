@@ -1,0 +1,36 @@
+{
+  "name": "Faithful Minecraft",
+  "description": "Minecraft theme using Faithful Pack dirt and grass textures.",
+  "authors": [
+    {
+      "name": "Gemini",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/Faithful-Pack/Default-Java/d985512a19a1737bd3ad6f4e00f81cc96a6f0cb9/assets/minecraft/textures/block/dirt.png",
+    "blur": 0,
+    "alpha": 0.35,
+    "overlay": true
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#313233cc"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#313233cc"],
+    "BACKGROUND_SECONDARY": ["#212121f2"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#212121f2"],
+    "BACKGROUND_TERTIARY": ["#141414"],
+    "BACKGROUND_ACCENT": ["#54fb54"],
+    "HEADER_PRIMARY": ["#f7ad1d"],
+    "TEXT_NORMAL": ["#dddddd"],
+    "TEXT_LINK": ["#54fb54"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#212121",
+    "PRIMARY_700": "#1a1a1a",
+    "PRIMARY_800": "#141414"
+    },
+  "unsafe_colors": {
+    "CHAT_GREY": "#313233"
+  }
+}
